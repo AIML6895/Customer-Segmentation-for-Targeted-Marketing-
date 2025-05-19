@@ -95,7 +95,7 @@ To replicate the analysis or apply the methodology to your dataset:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Taufiq-Ahmed-pranto/Customer-Segmentation-for-Targeted-Marketing-Strategies>
+   git clone <https://github.com/https://github.com/AIML6895/Customer-Segmentation-for-Targeted-Marketing-Strategies>
    ```
 
 2. Open the Jupyter notebooks provided in the repository to follow the analysis workflow.
